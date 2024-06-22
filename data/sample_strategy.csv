@@ -1,0 +1,4 @@
+Date,Profit,Pnl_Percentage,Trade_Capital,Index_Distance,Profit_booking_Morning,Profit_booking_AfterNoon,Trailing_Percaentage,Profit_booking_AfterNoon_apprx,No_of_Trades,Trade_1,Trade_2
+2024-06-18,100,0.2,50000,35,25,,30,43.75,1,0.2,,
+2024-06-19,150,0.3,50000,35,25,,30,43.75,1,0.3,,
+2024-06-20,-50,-0.1,50000,35,25,,30,43.75,1,-0.1,,
