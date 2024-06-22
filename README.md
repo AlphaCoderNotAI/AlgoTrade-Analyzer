@@ -14,7 +14,7 @@ AlgoTrade-Analyzer is a powerful, Streamlit-based dashboard for analyzing and vi
 Watch a quick demo of AlgoTrade-Analyzer to see its powerful features and intuitive interface:
 
 <p align="center">
-  <video src="https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer/assets/173565780/da21179f-d4a9-478d-8dba-5c06772660e3" width="480" height="360" controls>
+  <video src="https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer/assets/173565780/da21179f-d4a9-478d-8dba-5c06772660e3" width="100% " height="Auto " controls>
     Your browser does not support the video tag.
   </video>
 </p>
