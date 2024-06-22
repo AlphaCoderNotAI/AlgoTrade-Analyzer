@@ -4,17 +4,10 @@
 [![GitHub license](https://img.shields.io/github/license/AlphaCoderNotAI/AlgoTrade-Analyzer.svg)](https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/AlphaCoderNotAI/AlgoTrade-Analyzer.svg)](https://GitHub.com/AlphaCoderNotAI/AlgoTrade-Analyzer/stargazers/)
 
-<p align="center">
-  <img src="https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer/assets/173565780/bc84ccee-9535-4c1e-91e5-ff1bd172b582" alt="AlgoTrade-Analyzer Logo" width="200"/>
-</p>
 
 AlgoTrade-Analyzer is a powerful, Streamlit-based dashboard for analyzing and visualizing algorithmic trading performance. It provides comprehensive insights into trading strategies, risk metrics, and performance indicators.
 
 ## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer/assets/173565780/7faa03f6-a5ca-408d-8084-0a868634cadb" alt="Dashboard Preview" width="600"/>
-</p>
 
 ### 🎥 See AlgoTrade-Analyzer in Action
 
