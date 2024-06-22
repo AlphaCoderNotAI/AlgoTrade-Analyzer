@@ -112,7 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Venkateshwar Jambula
 - LinkedIn: [https://www.linkedin.com/in/venkateshwar-jambula/](https://www.linkedin.com/in/venkateshwar-jambula/)
-- Email: venkateshwar.jambula@gmail.com
 
 Project Link: [https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer](https://github.com/AlphaCoderNotAI/AlgoTrade-Analyzer)
 
